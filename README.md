@@ -1,5 +1,3 @@
-## This is all of about neovim configuration in my work environment
-
 ### Main window
 ![Main](./screenshots/001.jpeg) 
 
