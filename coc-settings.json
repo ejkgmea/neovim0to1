@@ -1,0 +1,12 @@
+{
+  "emmet.excludeLanguages": ["markdown", "html", "vue", "javascriptreact"],
+  "eslint.autoFixOnSave": true,
+  "eslint.probe": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "vue",
+  ],
+}
