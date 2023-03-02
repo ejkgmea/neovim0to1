@@ -71,7 +71,7 @@ keymap.set("n", "<leader>nh", ":nohl<cr>")
 
 -------- insert model ----------
 keymap.set("i", "jk", "<esc>")
-keymap.set("i", "kj", "<esc>") -- mac 键程太短，好容易按错
+keymap.set("i", "kj", "<esc>") -- macbook 键程太短，好容易按错
 
 -------- plugin keymap ----------
 -- nvim-tree
