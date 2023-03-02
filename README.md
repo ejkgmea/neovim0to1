@@ -35,7 +35,7 @@ scoop install ripgrep
 ### Usage:
 Just download this project into your `~/.config/` or replace `~/.config/nvim/` folder and then move to `lua/plugins/plugins-setup.lua` checkout this file and save it util all the plugins has been installing completed.
 ``` bash
-git clone https://github.com/ejkgmea/nvim.git
+git clone https://github.com/ejkgmea/neovim0to1.git   # rename to 'nvim'
 ```
 
 ### LSP Server
